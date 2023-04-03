@@ -130,6 +130,6 @@ I am also an open-source enthusiast.
 
 <p align="center">
 
-   ![snake gif](https://github.com/Kakadiya-Harshal/Kakadiya-harshal/blob/main/github-contribution-grid-snake.gif)
+  ![snake animation](https://github.com/Kakadiya-Harshal/Kakadiya-Harshal/blob/output/github-contribution-grid-snake2.svg)
 
 </p>
